@@ -1,0 +1,1 @@
+alert('Checked by 2Red');
